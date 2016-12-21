@@ -1,0 +1,5 @@
+Android App
+
+Web Application
+
+AWS server
